@@ -42,8 +42,8 @@ This script is created by [Nazedev](https://github.com/nazedev) using Node.js an
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/nazedev/hitori
-cd hitori
+git clone https://github.com/alzai7-store/alzai
+cd alzai
 npm install
 npm update
 ```
@@ -89,10 +89,13 @@ License: [MIT](https://choosealicense.com/licenses/mit/)
 
 #### Support Pembuat asli (Naze)
 - [Saweria](https://saweria.co/naze)
+  
+  ### Support Peng recode
 - [Sociabuzz](https://sociabuzz.com/alzai7)
+- [Dana,Ovo,Gopay](085189748370)
 
 ## Thanks to
 
 | [![Nazedev](https://github.com/nazedev.png?size=100)](https://github.com/nazedev) | [![Zaynn](https://github.com/ZaynRcK.png?size=100)](https://github.com/ZaynRcK) | [![Dani](https://github.com/nazedev.png?size=100)](https://github.com/nazedev) | [![WhiskeySockets](https://github.com/WhiskeySockets.png?size=100)](https://github.com/WhiskeySockets) |
 | --- | --- | --- | --- |
-| [NazeDev](https://github.com/nazedev) | [Zaynn](https://github.com/ZaynRcK) | [Dani](https://github.com/dani) | [WhiskeySockets](https://github.com/WhiskeySockets) |
+| [NazeDev](https://github.com/nazedev) | [Zaynn](https://github.com/ZaynRcK) | [Dani](https://github.com/dani) | [WhiskeySockets](https://github.com/WhiskeySockets) | [Ali](https://github.com/alzai7-store)
